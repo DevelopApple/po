@@ -1,0 +1,10 @@
+Package: com.yakir.powerxs
+Name: PowerXS
+Version: 1.0
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker 
+Architecture: iphoneos-arm
+Description: A more good-looking and less intrusive Power UI.
+Maintainer: DevelopApple
+Author: DevelopApple
+Section: Tweaks
+
